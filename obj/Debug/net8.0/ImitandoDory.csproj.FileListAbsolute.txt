@@ -1,0 +1,14 @@
+C:\Users\user\ImitandoDory\bin\Debug\net8.0\ImitandoDory.exe
+C:\Users\user\ImitandoDory\bin\Debug\net8.0\ImitandoDory.deps.json
+C:\Users\user\ImitandoDory\bin\Debug\net8.0\ImitandoDory.runtimeconfig.json
+C:\Users\user\ImitandoDory\bin\Debug\net8.0\ImitandoDory.dll
+C:\Users\user\ImitandoDory\bin\Debug\net8.0\ImitandoDory.pdb
+C:\Users\user\ImitandoDory\obj\Debug\net8.0\ImitandoDory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\ImitandoDory\obj\Debug\net8.0\ImitandoDory.AssemblyInfoInputs.cache
+C:\Users\user\ImitandoDory\obj\Debug\net8.0\ImitandoDory.AssemblyInfo.cs
+C:\Users\user\ImitandoDory\obj\Debug\net8.0\ImitandoDory.csproj.CoreCompileInputs.cache
+C:\Users\user\ImitandoDory\obj\Debug\net8.0\ImitandoDory.dll
+C:\Users\user\ImitandoDory\obj\Debug\net8.0\refint\ImitandoDory.dll
+C:\Users\user\ImitandoDory\obj\Debug\net8.0\ImitandoDory.pdb
+C:\Users\user\ImitandoDory\obj\Debug\net8.0\ImitandoDory.genruntimeconfig.cache
+C:\Users\user\ImitandoDory\obj\Debug\net8.0\ref\ImitandoDory.dll
